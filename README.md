@@ -11,8 +11,6 @@
 - **Optimizing SQL Queries** and working with large datasets to find meaningful patterns
 - **Creating Interactive Dashboards** and **Data Visualizations** using Python & Power BI
 
-## 📊 GitHub Stats
-![Bhushan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhushanzade02&show_icons=true&theme=radical)
 
 ## 💬 Let's Connect!
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bhushan-zade/)  

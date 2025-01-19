@@ -13,7 +13,7 @@
 
 
 ## 💬 Let's Connect!
-- 🔗 [LinkedIn](https://www.linkedin.com/in/bhushan-zade/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bhushan-zade-491a36332/)  
 - 🧑‍💻 [LeetCode](https://leetcode.com/bhushanzade02/)  
 - 📝 **Feel free to reach out** if you want to collaborate or discuss exciting data science topics!
 

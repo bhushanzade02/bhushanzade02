@@ -1,6 +1,6 @@
 # 👋 Hello, I'm **Bhushan Zade** – Striving to Make a Difference with Data!
 
-🌟 **Aspiring Data Scientist** | **SQL Enthusiast** | **Python Developer**  
+🌟 **Aspiring Data Scientist** | **SQL** | **Python** | **R**  
 🚀 **Passionate about Machine Learning, Data Science, and Analytics**  
 💡 Always exploring new ways to turn data into actionable insights!  
 🎓 **Graduated in Statistics, Mathematics, and Computer Science** from **I.O.S.C. Nagpur**  
@@ -20,7 +20,7 @@
 - 📝 **Feel free to reach out** if you want to collaborate or discuss exciting data science topics!
 
 ## 📚 Skills & Technologies
-- **Languages**: Python, SQL, C++  
+- **Languages**: Python, SQL, R, C++  
 - **Tools & Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **Databases**: MySQL  
 - **Data Visualization**: Power BI, Matplotlib, Seaborn  

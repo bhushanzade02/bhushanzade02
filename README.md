@@ -28,4 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Langchain_logo.svg" alt="LangChain" width="40" height="40"/>
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="40" height="40"/>
+
+  <img src="assets/logos/scikit-learn-logo-small.png" alt="Scikit-Learn" width="40" height="40"/>
+<img src="assets/logos/scipy-logo.png" alt="SciPy" width="40" height="40"/>
+<img src="assets/logos/langchain-logo.png" alt="LangChain" width="40" height="40"/>
+
 </p>

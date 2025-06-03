@@ -8,7 +8,6 @@
   <!-- Libraries -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/pydantic/pydantic-logo/main/pydantic-light.svg" alt="Pydantic" width="40" height="40"/>
 
   <!-- Deep Learning -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
